@@ -1,0 +1,17 @@
+C:\Users\user\documents\visual studio 2013\Projects\deneme\deneme2\bin\Debug\deneme2.exe.config
+C:\Users\user\documents\visual studio 2013\Projects\deneme\deneme2\obj\Debug\deneme2.csprojResolveAssemblyReference.cache
+C:\Users\user\documents\visual studio 2013\Projects\deneme\deneme2\bin\Debug\deneme2.exe
+C:\Users\user\documents\visual studio 2013\Projects\deneme\deneme2\bin\Debug\deneme2.pdb
+C:\Users\user\documents\visual studio 2013\Projects\deneme\deneme2\obj\Debug\deneme2.exe
+C:\Users\user\documents\visual studio 2013\Projects\deneme\deneme2\obj\Debug\deneme2.pdb
+C:\Users\user\Documents\Visual Studio 2013\Projects\deneme\deneme2\bin\Debug\Newtonsoft.Json.dll
+D:\aktarım\eski masaüstü\eski makine belgeler\Visual Studio 2013\Projects\deneme\deneme2\bin\Debug\deneme2.exe.config
+D:\aktarım\eski masaüstü\eski makine belgeler\Visual Studio 2013\Projects\deneme\deneme2\bin\Debug\deneme2.exe
+D:\aktarım\eski masaüstü\eski makine belgeler\Visual Studio 2013\Projects\deneme\deneme2\bin\Debug\deneme2.pdb
+D:\aktarım\eski masaüstü\eski makine belgeler\Visual Studio 2013\Projects\deneme\deneme2\bin\Debug\System.Net.Http.Formatting.dll
+D:\aktarım\eski masaüstü\eski makine belgeler\Visual Studio 2013\Projects\deneme\deneme2\bin\Debug\Newtonsoft.Json.dll
+D:\aktarım\eski masaüstü\eski makine belgeler\Visual Studio 2013\Projects\deneme\deneme2\bin\Debug\System.Web.Http.xml
+D:\aktarım\eski masaüstü\eski makine belgeler\Visual Studio 2013\Projects\deneme\deneme2\bin\Debug\System.Net.Http.Formatting.xml
+D:\aktarım\eski masaüstü\eski makine belgeler\Visual Studio 2013\Projects\deneme\deneme2\obj\Debug\deneme2.csprojResolveAssemblyReference.cache
+D:\aktarım\eski masaüstü\eski makine belgeler\Visual Studio 2013\Projects\deneme\deneme2\obj\Debug\deneme2.exe
+D:\aktarım\eski masaüstü\eski makine belgeler\Visual Studio 2013\Projects\deneme\deneme2\obj\Debug\deneme2.pdb

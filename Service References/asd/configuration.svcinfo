@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<configurationSnapshot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="urn:schemas-microsoft-com:xml-wcfconfigurationsnapshot">
+  <behaviors />
+  <bindings>
+    <binding digest="System.ServiceModel.Configuration.BasicHttpBindingElement, System.ServiceModel, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089:&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&lt;Data name=&quot;bkm_pos_serviceSoap&quot;&gt;&lt;security mode=&quot;Transport&quot; /&gt;&lt;/Data&gt;" bindingType="basicHttpBinding" name="bkm_pos_serviceSoap" />
+    <binding digest="System.ServiceModel.Configuration.BasicHttpBindingElement, System.ServiceModel, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089:&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&lt;Data name=&quot;bkm_pos_serviceSoap1&quot; /&gt;" bindingType="basicHttpBinding" name="bkm_pos_serviceSoap1" />
+  </bindings>
+  <endpoints>
+    <endpoint normalizedDigest="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&lt;Data address=&quot;https://ikea.magiclick.net/_ws/bkm-pos-service.asmx&quot; binding=&quot;basicHttpBinding&quot; bindingConfiguration=&quot;bkm_pos_serviceSoap&quot; contract=&quot;asd.bkm_pos_serviceSoap&quot; name=&quot;bkm_pos_serviceSoap&quot; /&gt;" digest="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&lt;Data address=&quot;https://ikea.magiclick.net/_ws/bkm-pos-service.asmx&quot; binding=&quot;basicHttpBinding&quot; bindingConfiguration=&quot;bkm_pos_serviceSoap&quot; contract=&quot;asd.bkm_pos_serviceSoap&quot; name=&quot;bkm_pos_serviceSoap&quot; /&gt;" contractName="asd.bkm_pos_serviceSoap" name="bkm_pos_serviceSoap" />
+  </endpoints>
+</configurationSnapshot>
